@@ -13,19 +13,19 @@ Data was scraped from a Wikipedia web page and was used as the basis for the vis
 # Tools Used
 I analyzed the data using the Anaconda distrobution of Python with the following libraries:
 
-Pandas - for data analysis
-NumPy - for mathematical equations
-SciPy - for data equations
-Seaborn - for data visulizations
-Matplotlib - for data visualizations
-NTLK - for Natural Language Processing
-Spacy - for Natural Language Processing
-Pyvis - for network graph visualizations
+Pandas - for data analysis </br>
+NumPy - for mathematical equations </br>
+SciPy - for data equations </br>
+Seaborn - for data visulizations </br>
+Matplotlib - for data visualizations </br>
+NTLK - for Natural Language Processing </br>
+Spacy - for Natural Language Processing </br>
+Pyvis - for network graph visualizations </br>
 
 # Folders
 The project files are broken down into the following folders:
 
-01 Project Management - contains the project brief documentation detailing the analysis
-02 Data: Separated into two subfolders Original Data and Prepared Data. These contains the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. (Data files not uploaded to GitHub due to size.)
-03 Scripts - contains the Jupyter notebooks containing the coding for the analysis and visualizations.
-04 Visualization - contains all of the graphs and graphics used when developing the final presentation with my insights.
+01 Project Management - contains the project brief documentation detailing the analysis </br>
+02 Data: Separated into two subfolders Original Data and Prepared Data. These contains the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. </br>
+03 Scripts - contains the Jupyter notebooks containing the coding for the analysis and visualizations. </br>
+04 Visualization - contains all of the graphs and graphics used when developing the final presentation with my insights. </br>
